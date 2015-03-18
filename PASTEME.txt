@@ -42,7 +42,7 @@
 \begin{document}
 
 \title{Intro to Mathematical Thinking (Spring 2015) Assignment 7 TEMPLATE}
-\author{YOURNAMEHERE}
+\author{YOUR NAME HERE}
 \date{\today}
 
 \begin{enumerate}
@@ -56,29 +56,26 @@
 \item 
 \end{itemize}
 
-\item  Prove that between any two unequal rationals there is a third rational
-\begin{itemize}
-\item
-\end{itemize}
+\item  Prove that between any two unequal rationals there is a third rational.
 
-\item Explain why proving \(\phi \Rightarrow \psi\) and \(\phi \Rightarrow \psi\) establishes the truth of \(\phi \Leftrightarrow \psi\)
+\item Explain why proving \(\phi \Rightarrow \psi\) and \(\psi \Rightarrow \phi\) establishes the truth of \(\phi \Leftrightarrow \psi\).
 \begin{itemize}
-\item
+\item 
 \end{itemize}
 
 \item Explain why proving \(\phi \Rightarrow \psi\) and \((\neg \phi) \Rightarrow (\neg \psi)\) establishes the truth of \(\phi \Leftrightarrow \psi\).
 \begin{itemize}
-\item
+\item 
 \end{itemize}
 
-\item Prove that if five investors split a payout of two million dollars, at least one investor receives at least 400,000.
+\item Prove that if five investors split a payout of two million dollars, at least one investor receives at least \$400,000.
 \begin{itemize}
-\item
+\item 
 \end{itemize}
 
 \item Prove that \(\sqrt{3}\) is irrational.
 \begin{itemize}
-\item
+\item 
 \end{itemize}
 
 \item Write down the converses of the following conditional statements:
@@ -169,12 +166,12 @@
 
 \item Let \(m\) and \(n\) be integers. Prove that:
 \begin{enumerate}
-\item If \(m\) and \(n\) are even, then \(m + n\) is even.
+\item If \(m\) and \(n\) are even, then \( m + n\) is even.
 \begin{itemize}
 \item
 \end{itemize}
 
-\item If \(m\) and \(n\) are even, then \(mn\) is divisible by\( 4\).
+\item If \(m\) and \(n\) are even, then \( mn \)is divisible by\( 4\).
 \begin{itemize}
 \item
 \end{itemize}
@@ -208,7 +205,7 @@
 \item
 \end{itemize}
 
-\item  For all integers \(a, b, c,\) if \(a\) divides\( bc\) (no remainder), then either\( a\) divides \(b\) or \(a\) divides \(c\).
+\item  For all integers \(a, b, c,\) if \(a\) divides \( bc\) (no remainder), then either \( a\) divides \(b\) or \(a\) divides \(c\).
 \begin{itemize}
 \item
 \end{itemize}
